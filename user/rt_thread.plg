@@ -1,0 +1,23 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+f:\Users\Spacelan\Documents\GitHub\RT_Thread_Base_On_STM32F401\user\rt_thread.uvproj
+Project File Date:  07/07/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+main.c(4): warning:  #1-D: last line of file ends without a newline
+linking...
+.\rt_thread.sct(7): error: L6236E: No section matches selector - no section to be FIRST/LAST.
+".\rt_thread.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(4): warning:  #1-D: last line of file ends without a newline
+linking...
+..\OUTPUTANDLISTING\rt_thread.sct(7): error: L6236E: No section matches selector - no section to be FIRST/LAST.
+"..\OUTPUTANDLISTING\rt_thread.axf" - 1 Errors, 1 Warning(s).
+Target not created

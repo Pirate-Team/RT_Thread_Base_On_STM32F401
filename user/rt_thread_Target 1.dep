@@ -1,0 +1,29 @@
+Dependencies for Project 'rt_thread', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x53BA6085)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\user -I..\STM32F10x_FWLib\src -I..\CORE-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-o ..\outputandlisting\main.o --omf_browse ..\outputandlisting\main.crf --depend ..\outputandlisting\main.d)
+F (.\system_stm32f10x.c)(0x4D99A426)()
+F (.\stm32f10x_it.c)(0x530F2BF9)()
+F (..\STM32F10x_FWLib\src\misc.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_adc.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_bkp.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_can.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_cec.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_crc.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_dac.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_dbgmcu.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_dma.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_exti.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_flash.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_fsmc.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_gpio.c)(0x4D79EEC6)()
+F (..\STM32F10x_FWLib\src\stm32f10x_i2c.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_iwdg.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_pwr.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_rcc.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_rtc.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_sdio.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_spi.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_tim.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_usart.c)(0x4D783BB4)()
+F (..\STM32F10x_FWLib\src\stm32f10x_wwdg.c)(0x4D783BB4)()
+F (..\CORE\core_cm3.c)(0x4C0C587E)()
+F (..\CORE\startup_stm32f10x_md.s)(0x4D783CD2)()
